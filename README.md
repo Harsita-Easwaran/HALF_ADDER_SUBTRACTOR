@@ -75,7 +75,7 @@ HalfAdder
 ![Screenshot 2025-05-26 212411](https://github.com/user-attachments/assets/9c71801a-9e02-4e37-9e02-8a57e812f14d)
 
 HalfSubtractor
-![Screenshot 2025-05-26 213405](https://github.com/user-attachments/assets/32f73e3f-9891-4c3a-99e3-fc67b3957349)
+![Screenshot 2025-05-26 213250](https://github.com/user-attachments/assets/c2f433ee-39f1-488c-9b16-ca26c7202b59)
 
 
 **Output/TIMING Waveform**
@@ -83,7 +83,7 @@ HalfAdder
 ![Screenshot 2025-05-26 212600](https://github.com/user-attachments/assets/0df3c792-eb60-4b88-a271-2a15271dacb3)
 
 HalfSubtractor
-![Screenshot 2025-05-26 213250](https://github.com/user-attachments/assets/c2f433ee-39f1-488c-9b16-ca26c7202b59)
+![Screenshot 2025-05-26 213405](https://github.com/user-attachments/assets/32f73e3f-9891-4c3a-99e3-fc67b3957349)
 
 
 **Result:**
